@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'AppService-Jesus'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFA17CE38AB0453090CDE229755A9E9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C5EC1B86A87406DBECF328F6ED1F377 }}
